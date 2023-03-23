@@ -1,0 +1,3 @@
+﻿  extra_credit.cpp
+C:\Users\danbu\Desktop\school\extra_credit\extra_credit\extra_credit.cpp(128): warning C4715: 'reading': not all control paths return a value
+  extra_credit.vcxproj -> C:\Users\danbu\Desktop\school\extra_credit\x64\Debug\extra_credit.exe
